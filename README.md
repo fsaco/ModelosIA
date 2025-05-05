@@ -1,0 +1,1 @@
+Este repositorio contiene algunos de los ejercicios que realizado durante el máster de IA
