@@ -1,1 +1,1 @@
-Este repositorio contiene algunos de los ejercicios que realizado durante el máster de IA
+Este repositorio contiene algunos de los ejercicios que he realizado durante el máster de IA
